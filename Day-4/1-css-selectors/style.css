@@ -1,0 +1,67 @@
+/* h1 {
+  color: red;
+}
+
+.title {
+  color: blue;
+}
+
+#title {
+  color: yellow;
+} */
+
+/* .parent p {
+  color: red;
+} */
+
+/* .parent > p {
+  color: red;
+} */
+
+/* .parent + p {
+  color: red;
+} */
+
+/* .parent ~ p {
+  color: red;
+} */
+
+/* a:link {
+  color: green;
+}
+
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: blue;
+} */
+
+/* .parent p:first-child {
+  color: red;
+} */
+
+/* p::first-line {
+  color: red;
+}
+
+p::first-letter {
+  font-size: 50px;
+} */
+
+/* h1::before {
+  content: "👋 ";
+}
+
+h1::after {
+  content: "👋 ";
+} */
+
+p[title="one"] {
+  color: blue;
+}
+
+.one {
+  color: green;
+}
